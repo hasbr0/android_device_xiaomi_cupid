@@ -164,8 +164,8 @@
     <item name="wifi.on">1.62</item>
     <item name="wifi.active">267.74</item>
     <item name="wifi.scan">72.58</item>
-    <item name="dsp.audio">23.28</item>
-    <item name="dsp.video">67.05</item>
+    <item name="audio">23.28</item>
+    <item name="video">67.05</item>
 
     <!-- Average power used by the camera flash module when on -->
     <item name="camera.flashlight">143.35</item>
