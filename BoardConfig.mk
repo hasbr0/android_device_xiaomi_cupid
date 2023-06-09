@@ -14,3 +14,6 @@ DEVICE_PATH := device/xiaomi/cupid
 
 # Screen density
 TARGET_SCREEN_DENSITY := 440
+
+# Vendor security patch level
+VENDOR_SECURITY_PATCH := 2023-05-05
